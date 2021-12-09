@@ -1,0 +1,56 @@
+/* .MainContainer{ */
+.container3 {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: space-between;
+
+}
+
+.container3 H4 {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+/* h1, h2, .container3 {
+    font-size: 10px;
+} */
+    
+    
+.hteam {
+    display: flex;
+    flex-direction: row;
+}
+
+td.htable, th.htable {
+    width: 15px;
+    font-size: 16px;
+    text-align: center;
+}
+
+/* .container3 th{
+        width: 25px;
+        /* font-size: 8px;
+    text-align: center;
+
+} */
+
+/* .container3 td{
+    width: 5px;
+    /* font-size: 10px;
+    text-align: center;
+} */
+
+table.htable {
+    width: 90%;
+    border: 1px solid black;
+    padding: 10px;
+    /* border-collapse: collapse; */
+    margin-top: 20px;
+}
+
+.hteamLogo{
+    height: 30px;
+    padding: 5px;
+}

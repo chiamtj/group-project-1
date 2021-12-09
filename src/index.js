@@ -7,6 +7,7 @@ import TeamLineup from './screens/TeamLineup';
 import headerImage from './images/EPL.jpg';
 import Matches from "./screens/Matches"
 import Standing from "./screens/Standing";
+import MainScreen from './screens/MainScreen';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -15,7 +16,8 @@ ReactDOM.render(
     <Standing/>
     <Matches/>
     <TeamLineup />
-    <div className="container3">Container 3</div>
+    <MainScreen />
+    {/* <div className="container3">Container 3</div> */}
     </div>
   </React.StrictMode>,
   document.getElementById('root')

@@ -32,6 +32,41 @@ function EplTeams(props) {
         id: 39,
         name: "Wolves",
         logo: "https://media.api-sports.io/football/teams/39.png"
+    },
+    {
+        id: 40,
+        name: "Liverpool",
+        logo: "https://media.api-sports.io/football/teams/40.png"
+    },
+    {
+        id: 41,
+        name: "Southampton",
+        logo: "https://media.api-sports.io/football/teams/41.png"
+    },
+    {
+        id: 42,
+        name: "Arsenal",
+        logo: "https://media.api-sports.io/football/teams/42.png"
+    },
+    {
+        id: 44,
+        name: "Burnley",
+        logo: "https://media.api-sports.io/football/teams/44.png"
+    },
+    {
+        id: 45,
+        name: "Everton",
+        logo: "https://media.api-sports.io/football/teams/45.png"
+    },
+    {
+        id: 46,
+        name: "Leicester",
+        logo: "https://media.api-sports.io/football/teams/46.png"
+    },
+    {
+        id: 47,
+        name: "Tottenham",
+        logo: "https://media.api-sports.io/football/teams/47.png"
     }
     ];
 
