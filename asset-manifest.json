@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/group-project-1/static/css/main.b8e30173.chunk.css",
-    "main.js": "/group-project-1/static/js/main.e8e81aac.chunk.js",
-    "main.js.map": "/group-project-1/static/js/main.e8e81aac.chunk.js.map",
-    "runtime-main.js": "/group-project-1/static/js/runtime-main.71f7d7b8.js",
-    "runtime-main.js.map": "/group-project-1/static/js/runtime-main.71f7d7b8.js.map",
-    "static/js/2.840c49c8.chunk.js": "/group-project-1/static/js/2.840c49c8.chunk.js",
-    "static/js/2.840c49c8.chunk.js.map": "/group-project-1/static/js/2.840c49c8.chunk.js.map",
-    "static/js/3.fcbde454.chunk.js": "/group-project-1/static/js/3.fcbde454.chunk.js",
-    "static/js/3.fcbde454.chunk.js.map": "/group-project-1/static/js/3.fcbde454.chunk.js.map",
+    "main.css": "/group-project-1/static/css/main.4b0690e1.chunk.css",
+    "main.js": "/group-project-1/static/js/main.37ddbd81.chunk.js",
+    "main.js.map": "/group-project-1/static/js/main.37ddbd81.chunk.js.map",
+    "runtime-main.js": "/group-project-1/static/js/runtime-main.b67b4816.js",
+    "runtime-main.js.map": "/group-project-1/static/js/runtime-main.b67b4816.js.map",
+    "static/js/2.f6d652ad.chunk.js": "/group-project-1/static/js/2.f6d652ad.chunk.js",
+    "static/js/2.f6d652ad.chunk.js.map": "/group-project-1/static/js/2.f6d652ad.chunk.js.map",
+    "static/js/3.ae2c2629.chunk.js": "/group-project-1/static/js/3.ae2c2629.chunk.js",
+    "static/js/3.ae2c2629.chunk.js.map": "/group-project-1/static/js/3.ae2c2629.chunk.js.map",
     "index.html": "/group-project-1/index.html",
-    "static/css/main.b8e30173.chunk.css.map": "/group-project-1/static/css/main.b8e30173.chunk.css.map",
-    "static/js/2.840c49c8.chunk.js.LICENSE.txt": "/group-project-1/static/js/2.840c49c8.chunk.js.LICENSE.txt",
+    "static/css/main.4b0690e1.chunk.css.map": "/group-project-1/static/css/main.4b0690e1.chunk.css.map",
+    "static/js/2.f6d652ad.chunk.js.LICENSE.txt": "/group-project-1/static/js/2.f6d652ad.chunk.js.LICENSE.txt",
     "static/media/EPL.21292feb.jpg": "/group-project-1/static/media/EPL.21292feb.jpg",
     "static/media/index.css": "/group-project-1/static/media/vienna-unsplash.cc9b38d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.71f7d7b8.js",
-    "static/js/2.840c49c8.chunk.js",
-    "static/css/main.b8e30173.chunk.css",
-    "static/js/main.e8e81aac.chunk.js"
+    "static/js/runtime-main.b67b4816.js",
+    "static/js/2.f6d652ad.chunk.js",
+    "static/css/main.4b0690e1.chunk.css",
+    "static/js/main.37ddbd81.chunk.js"
   ]
 }
