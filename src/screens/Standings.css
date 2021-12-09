@@ -1,0 +1,29 @@
+.title{
+    /* position: relative;
+    right: -66rem;
+    top: 51px;
+    width: 370px;
+    height: 55px; */
+    /* padding: 5px; */
+    text-align: center;
+    /* line-height: 1em; */
+    /* background-color: rgb(245, 19, 30); */
+    /* border: solid 1px rgb(0, 0, 0); */
+}
+.title H4 {
+    padding-top: 0;
+    margin-top: 0;
+}
+
+.container{
+    margin: 20px;
+    border: 1px solid black;
+    /* width: 370px;
+    height: 440px; */
+    font-size: 15px;
+    padding-left: 10px;
+    text-align: left;
+    /* position: relative; */
+    /* right: -66rem;
+    top: 50px; */
+}

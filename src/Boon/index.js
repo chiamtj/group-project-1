@@ -1,22 +1,12 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-// import App from './App';
+import './screens/Standings.css';
+import Standing from './screens/Standing';
 import reportWebVitals from './reportWebVitals';
-import TeamLineup from './screens/TeamLineup';
-import headerImage from './images/EPL.jpg';
-import Matches from "./screens/Matches"
-import Standing from "./screens/Standing";
 
 ReactDOM.render(
   <React.StrictMode>
-  <div className="grid-container">
-    <div className="header"><img src={headerImage} alt=""/></div>
-    <Standing/>
-    <Matches/>
-    <TeamLineup />
-    <div className="container3">Container 3</div>
-    </div>
+    <Standing />
   </React.StrictMode>,
   document.getElementById('root')
 );

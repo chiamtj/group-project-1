@@ -57,7 +57,7 @@ class TeamLineup extends React.Component {
     render() {
         return(<>
             <div className="container5">
-                <h3>Past Fixtures and Lineups</h3>
+                <h3>PAST FIXTURES AND LINEUPS</h3>
                 <EplTeams returnFix={this.handleTeamFixture}/>
                 {this.state.lineUpArray.length > 0
                 ? <Lineup fixtureID={this.state.lineUpArray}/>
