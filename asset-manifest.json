@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/group-project-1/static/css/main.aa9613c2.chunk.css",
+    "main.css": "/group-project-1/static/css/main.86781ca2.chunk.css",
     "main.js": "/group-project-1/static/js/main.37ddbd81.chunk.js",
     "main.js.map": "/group-project-1/static/js/main.37ddbd81.chunk.js.map",
     "runtime-main.js": "/group-project-1/static/js/runtime-main.b67b4816.js",
@@ -10,7 +10,7 @@
     "static/js/3.ae2c2629.chunk.js": "/group-project-1/static/js/3.ae2c2629.chunk.js",
     "static/js/3.ae2c2629.chunk.js.map": "/group-project-1/static/js/3.ae2c2629.chunk.js.map",
     "index.html": "/group-project-1/index.html",
-    "static/css/main.aa9613c2.chunk.css.map": "/group-project-1/static/css/main.aa9613c2.chunk.css.map",
+    "static/css/main.86781ca2.chunk.css.map": "/group-project-1/static/css/main.86781ca2.chunk.css.map",
     "static/js/2.f6d652ad.chunk.js.LICENSE.txt": "/group-project-1/static/js/2.f6d652ad.chunk.js.LICENSE.txt",
     "static/media/EPL.21292feb.jpg": "/group-project-1/static/media/EPL.21292feb.jpg",
     "static/media/index.css": "/group-project-1/static/media/vienna-unsplash.cc9b38d6.jpg"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.b67b4816.js",
     "static/js/2.f6d652ad.chunk.js",
-    "static/css/main.aa9613c2.chunk.css",
+    "static/css/main.86781ca2.chunk.css",
     "static/js/main.37ddbd81.chunk.js"
   ]
 }
