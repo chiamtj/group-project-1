@@ -26,14 +26,27 @@ function EplSeasons(props) {
     setSeasons(seasonArray);
   }
 
+  // const getListOfAllSeasons = () => {
+  //   console.log("Season list loaded on screen");
+  //   return (
+  //     <form>
+  //       <select onChange={handleSeasonSelect}>
+  //         {seasonsList.map((x, index) => {
+  //           return <option key={uuidv4()}>{x}</option>;
+  //         })}
+  //       </select>
+  //     </form>
+  //   );
+  // };
+
   const getListOfAllSeasons = () => {
-    console.log("Season list loaded on screen");
+    console.log("OPTIONS BEING LOADED");
     return (
       <form>
-        <select onChange={handleSeasonSelect}>
-          {seasonsList.map((x, index) => {
-            return <option key={uuidv4()}>{x}</option>;
-          })}
+        <select onChange={handleSeasonSelect}  value={props.selectedSeason}> 
+          {seasonsList.map((x) => {
+            return(<option key={uuidv4()} value={x}> {x} </option>) 
+        })}
         </select>
       </form>
     );
