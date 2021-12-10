@@ -18,6 +18,7 @@ h3{
     margin: auto;
     width: 100%;
     min-width: 500px;
+    padding: 10px;
 }
 
 .match-date-header{
