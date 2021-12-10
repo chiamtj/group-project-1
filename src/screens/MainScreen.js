@@ -111,8 +111,8 @@ function MainScreen() {
   return (
     <>
       <div className="container3">
-      <h1>TEAM STATISTICS</h1>
-        <h2>Select Season</h2>
+      <h3>TEAM STATISTICS</h3>
+        <h4>Select Season</h4>
         <Seasons passToScreen={handleSeasonSelect} selectedSeason={selectedSeason} />
         <StatList teamStatList={teamStatList} />
       </div>
