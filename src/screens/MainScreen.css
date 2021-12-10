@@ -21,12 +21,14 @@
 .hteam {
     display: flex;
     flex-direction: row;
+    text-align: left;
+    align-items: center;
 }
 
 td.htable, th.htable {
     width: 15px;
     font-size: 16px;
-    text-align: center;
+    /* text-align: left; */
 }
 
 /* .container3 th{
@@ -47,7 +49,7 @@ table.htable {
     border: 1px solid black;
     padding: 10px;
     /* border-collapse: collapse; */
-    margin-top: 20px;
+    margin: 10px;
 }
 
 .hteamLogo{
